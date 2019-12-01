@@ -10,5 +10,6 @@ public class AoiApplication {
         SpringApplication.run(AoiApplication.class, args);
         System.out.println("你是谁");
         System.out.println("你是谁");
+        System.out.println("dev");
     }
 }
