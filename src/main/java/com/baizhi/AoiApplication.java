@@ -8,6 +8,6 @@ public class AoiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AoiApplication.class, args);
+        System.out.println("你是谁");
     }
-
 }
